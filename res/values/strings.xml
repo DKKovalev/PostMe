@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PostMe</string>
+    <string name="action_take_photo">Take photo</string>
+    <string name="sign_in">Sign in</string>
+    <string name="post_on_wall">Share</string>
+    <string name="facebook_app_id">856521621067372</string>
+</resources>
